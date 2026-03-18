@@ -1,0 +1,56 @@
+0:15:30 Microsoft.Shutdown.TabStripModel.CloseTabs
+0:15:30 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+0:15:30 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+0:15:30 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+0:15:30 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+0:15:30 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+0:15:30 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+0:15:30 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+0:15:30 Tab5 RenderProcessGone
+0:15:30 Microsoft.UnloadController.ClearUnloadState
+0:15:30 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+0:15:30 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+0:15:30 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:15:30 Microsoft.UnloadController.ClearUnloadState
+0:15:30 Browser5 Close Tab5 at 0
+0:15:30 Tab5 WebContentsDestroyed
+0:15:30 Microsoft.UnloadController.TabStripEmpty
+0:15:30 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:15:30 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:15:30 Microsoft.Shutdown.OnWindowClosing
+0:15:30 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:15:30 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:15:30 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:15:30 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:15:30 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:15:30 Widget Closed: BrowserWidget
+0:15:30 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:15:30 Microsoft.Shutdown.OnWindowClosing
+0:15:30 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+0:15:30 Microsoft.Browser_Removed
+0:18:12 Tab3 StartNav23 #typed
+0:18:12 Tab3 FinishNav23
+0:18:12 Tab3 PageLoad
+0:18:18 Tab3 StartNav24 #typed
+0:18:18 Tab3 FinishNav24
+0:18:18 Tab3 PageLoad
+0:18:18 Tab3 StartNav25 #typed
+0:18:18 Tab3 FinishNav25
+0:18:18 Tab3 PageLoad
+0:18:18 Tab3 StartNav26 #typed
+0:18:18 Tab3 FinishNav26
+0:18:18 Tab3 PageLoad
+0:18:19 Tab3 StartNav27 #typed
+0:18:19 Tab3 FinishNav27
+0:18:19 Tab3 PageLoad
+0:18:21 Tab3 StartNav28 #typed
+0:18:21 Tab3 FinishNav28
+0:18:21 Tab3 PageLoad
+0:18:24 Tab3 StartNav29 #typed
+0:18:24 Tab3 FinishNav29
+0:18:24 Tab3 PageLoad
+0:19:30 Tab3 StartNav30 #typed
+0:19:30 Tab3 FinishNav30
+0:19:30 Tab3 PageLoad
+0:25:22 Memory Pressure: Moderate
+0:25:27 Memory Pressure: None

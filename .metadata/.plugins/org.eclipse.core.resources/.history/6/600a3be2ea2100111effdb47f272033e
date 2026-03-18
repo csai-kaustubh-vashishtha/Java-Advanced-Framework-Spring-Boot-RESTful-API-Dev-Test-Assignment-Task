@@ -1,0 +1,5 @@
+package com.capgrmini.serialization.entity;
+
+public class Student {
+
+}
